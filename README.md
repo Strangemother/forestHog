@@ -2,7 +2,11 @@
 And edited version of forestHog
 
 + Tests
-+ Integrate Home Office scanner
++ Integrate
+  + Lyft High Entropy String
+  + auth0 - repo-supervisor
+  + UKHomeOffice - repo-security-scanner
+
 + add to deploy suite
 + prehooks.
 
